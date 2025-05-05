@@ -19,7 +19,6 @@ project/
 
 ## How to Run
 
-Dependencies
 
 You only need NumPy:
 
