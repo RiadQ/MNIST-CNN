@@ -19,7 +19,7 @@ project/
 
 ## How to Run
 
-Install Dependencies
+Dependencies
 
 You only need NumPy:
 
