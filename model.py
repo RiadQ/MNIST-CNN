@@ -83,7 +83,7 @@ def run_test_cases(data, labels, model):
         if pred == true:
             correct += 1
 
-    print(f'Model accuracy: {round(correct/100, 2)}%')
+    print(f'Model accuracy: {round((correct/len(data))*100, 2)}%')
 
 
 class ConvLayer:
